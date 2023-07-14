@@ -1,0 +1,99 @@
+[25-Jul-2022 22:54:09 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/zibatec2/public_html/rental/classes/DBConnection.php on line 18
+[25-Jul-2022 22:54:09 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zibatec2/public_html/rental/classes/SystemSettings.php on line 16
+[25-Jul-2022 22:54:09 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/zibatec2/public_html/rental/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/zibatec2/public_html/rental/classes/SystemSettings.php(228): SystemSettings->load_system_info()
+#1 /home/zibatec2/public_html/rental/config.php(9): require_once('/home/zibatec2/...')
+#2 /home/zibatec2/public_html/rental/index.php(1): require_once('/home/zibatec2/...')
+#3 {main}
+  thrown in /home/zibatec2/public_html/rental/classes/SystemSettings.php on line 17
+[25-Jul-2022 22:54:20 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/zibatec2/public_html/rental/classes/DBConnection.php on line 18
+[25-Jul-2022 22:54:20 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zibatec2/public_html/rental/classes/SystemSettings.php on line 16
+[25-Jul-2022 22:54:20 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/zibatec2/public_html/rental/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/zibatec2/public_html/rental/classes/SystemSettings.php(228): SystemSettings->load_system_info()
+#1 /home/zibatec2/public_html/rental/config.php(9): require_once('/home/zibatec2/...')
+#2 /home/zibatec2/public_html/rental/index.php(1): require_once('/home/zibatec2/...')
+#3 {main}
+  thrown in /home/zibatec2/public_html/rental/classes/SystemSettings.php on line 17
+[25-Jul-2022 22:57:01 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'zibatec2_user'@'localhost' (using password: YES) in /home/zibatec2/public_html/rental/classes/DBConnection.php on line 18
+[25-Jul-2022 22:57:01 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zibatec2/public_html/rental/classes/SystemSettings.php on line 16
+[25-Jul-2022 22:57:01 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/zibatec2/public_html/rental/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/zibatec2/public_html/rental/classes/SystemSettings.php(228): SystemSettings->load_system_info()
+#1 /home/zibatec2/public_html/rental/config.php(9): require_once('/home/zibatec2/...')
+#2 /home/zibatec2/public_html/rental/index.php(1): require_once('/home/zibatec2/...')
+#3 {main}
+  thrown in /home/zibatec2/public_html/rental/classes/SystemSettings.php on line 17
+[25-Jul-2022 23:03:41 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'zibatec2_user'@'localhost' (using password: YES) in /home/zibatec2/public_html/rental/classes/DBConnection.php on line 18
+[25-Jul-2022 23:03:41 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zibatec2/public_html/rental/classes/SystemSettings.php on line 16
+[25-Jul-2022 23:03:41 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/zibatec2/public_html/rental/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/zibatec2/public_html/rental/classes/SystemSettings.php(228): SystemSettings->load_system_info()
+#1 /home/zibatec2/public_html/rental/config.php(9): require_once('/home/zibatec2/...')
+#2 /home/zibatec2/public_html/rental/index.php(1): require_once('/home/zibatec2/...')
+#3 {main}
+  thrown in /home/zibatec2/public_html/rental/classes/SystemSettings.php on line 17
+[25-Jul-2022 23:14:54 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'zibatec2_user'@'localhost' (using password: YES) in /home/zibatec2/public_html/rental/classes/DBConnection.php on line 18
+[25-Jul-2022 23:14:54 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zibatec2/public_html/rental/classes/SystemSettings.php on line 16
+[25-Jul-2022 23:14:54 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/zibatec2/public_html/rental/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/zibatec2/public_html/rental/classes/SystemSettings.php(228): SystemSettings->load_system_info()
+#1 /home/zibatec2/public_html/rental/config.php(9): require_once('/home/zibatec2/...')
+#2 /home/zibatec2/public_html/rental/index.php(1): require_once('/home/zibatec2/...')
+#3 {main}
+  thrown in /home/zibatec2/public_html/rental/classes/SystemSettings.php on line 17
+[25-Jul-2022 23:15:15 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'zibatec2_user'@'localhost' (using password: YES) in /home/zibatec2/public_html/rental/classes/DBConnection.php on line 18
+[25-Jul-2022 23:15:15 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zibatec2/public_html/rental/classes/SystemSettings.php on line 16
+[25-Jul-2022 23:15:15 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/zibatec2/public_html/rental/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/zibatec2/public_html/rental/classes/SystemSettings.php(228): SystemSettings->load_system_info()
+#1 /home/zibatec2/public_html/rental/config.php(9): require_once('/home/zibatec2/...')
+#2 /home/zibatec2/public_html/rental/index.php(1): require_once('/home/zibatec2/...')
+#3 {main}
+  thrown in /home/zibatec2/public_html/rental/classes/SystemSettings.php on line 17
+[25-Jul-2022 23:15:28 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'zibatec2_user'@'localhost' (using password: YES) in /home/zibatec2/public_html/rental/classes/DBConnection.php on line 18
+[25-Jul-2022 23:15:28 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zibatec2/public_html/rental/classes/SystemSettings.php on line 16
+[25-Jul-2022 23:15:28 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/zibatec2/public_html/rental/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/zibatec2/public_html/rental/classes/SystemSettings.php(228): SystemSettings->load_system_info()
+#1 /home/zibatec2/public_html/rental/config.php(9): require_once('/home/zibatec2/...')
+#2 /home/zibatec2/public_html/rental/index.php(1): require_once('/home/zibatec2/...')
+#3 {main}
+  thrown in /home/zibatec2/public_html/rental/classes/SystemSettings.php on line 17
+[25-Jul-2022 23:15:38 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'zibatec2_user'@'localhost' (using password: YES) in /home/zibatec2/public_html/rental/classes/DBConnection.php on line 18
+[25-Jul-2022 23:15:38 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zibatec2/public_html/rental/classes/SystemSettings.php on line 16
+[25-Jul-2022 23:15:38 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/zibatec2/public_html/rental/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/zibatec2/public_html/rental/classes/SystemSettings.php(228): SystemSettings->load_system_info()
+#1 /home/zibatec2/public_html/rental/config.php(9): require_once('/home/zibatec2/...')
+#2 /home/zibatec2/public_html/rental/index.php(1): require_once('/home/zibatec2/...')
+#3 {main}
+  thrown in /home/zibatec2/public_html/rental/classes/SystemSettings.php on line 17
+[25-Jul-2022 23:15:54 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'zibatec2_user'@'localhost' (using password: YES) in /home/zibatec2/public_html/rental/classes/DBConnection.php on line 18
+[25-Jul-2022 23:15:54 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zibatec2/public_html/rental/classes/SystemSettings.php on line 16
+[25-Jul-2022 23:15:54 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/zibatec2/public_html/rental/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/zibatec2/public_html/rental/classes/SystemSettings.php(228): SystemSettings->load_system_info()
+#1 /home/zibatec2/public_html/rental/config.php(9): require_once('/home/zibatec2/...')
+#2 /home/zibatec2/public_html/rental/index.php(1): require_once('/home/zibatec2/...')
+#3 {main}
+  thrown in /home/zibatec2/public_html/rental/classes/SystemSettings.php on line 17
+[25-Jul-2022 23:16:46 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'zibatec2_user'@'localhost' (using password: YES) in /home/zibatec2/public_html/rental/classes/DBConnection.php on line 18
+[25-Jul-2022 23:16:46 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zibatec2/public_html/rental/classes/SystemSettings.php on line 16
+[25-Jul-2022 23:16:46 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/zibatec2/public_html/rental/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/zibatec2/public_html/rental/classes/SystemSettings.php(228): SystemSettings->load_system_info()
+#1 /home/zibatec2/public_html/rental/config.php(9): require_once('/home/zibatec2/...')
+#2 /home/zibatec2/public_html/rental/index.php(1): require_once('/home/zibatec2/...')
+#3 {main}
+  thrown in /home/zibatec2/public_html/rental/classes/SystemSettings.php on line 17
+[25-Jul-2022 23:16:46 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'zibatec2_user'@'localhost' (using password: YES) in /home/zibatec2/public_html/rental/classes/DBConnection.php on line 18
+[25-Jul-2022 23:16:46 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zibatec2/public_html/rental/classes/SystemSettings.php on line 16
+[25-Jul-2022 23:16:46 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/zibatec2/public_html/rental/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/zibatec2/public_html/rental/classes/SystemSettings.php(228): SystemSettings->load_system_info()
+#1 /home/zibatec2/public_html/rental/config.php(9): require_once('/home/zibatec2/...')
+#2 /home/zibatec2/public_html/rental/index.php(1): require_once('/home/zibatec2/...')
+#3 {main}
+  thrown in /home/zibatec2/public_html/rental/classes/SystemSettings.php on line 17
